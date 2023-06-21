@@ -15,9 +15,7 @@ To use this project, follow these steps:
 
 1. Clone the repository: git clone https://github.com/your-username/your-repository.git
 2. Install the required dependencies: pip install -r requirements.txt
-3. Download the AirQuality.csv dataset from [link-to-dataset] and place it in the project directory.
-4. Run the project: python model_selection.py
-
-# Result
+3. Download the AirQuality.csv dataset and place it in the project directory.
+4. Run the project: python AirQuality_Model_Selection.py
 
 
